@@ -20,4 +20,11 @@ window OS 를 사용하는 PC에 대한 install 방법입니다.
 ```
     Invoke-WebRequest -UseBasicParsing -Uri https://pyenv.run | Invoke-Expression
 ```
+
+#### python 버전 설치 및 설정 ####
+```
+    pyenv install 3.10.0
+    pyenv global 3.10.0
+
+```
 #### 설명 ####
