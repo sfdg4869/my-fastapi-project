@@ -7,13 +7,13 @@ FastAPI 라이브러리를 사용하여 구현한 REST API 서버 입니다.
 ***
 
 ***
-### requirements ###
+### - requirements ###
 python 3.10.0
 
 fastapi 0.0.4
 ***
  
-### install ###
+### - install ###
 window OS 를 사용하는 PC에 대한 install 방법입니다.
 
 #### pyenv-win 설치 ####
