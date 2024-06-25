@@ -15,6 +15,8 @@ fastapi 0.0.4
  
 #### install ####
 window OS 를 사용하는 PC에 대한 install 방법입니다.
+
+#### pyenv-win 설치 ####
 ```
     Invoke-WebRequest -UseBasicParsing -Uri https://pyenv.run | Invoke-Expression
 ```
