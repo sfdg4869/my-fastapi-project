@@ -8,9 +8,9 @@ FastAPI 라이브러리를 사용하여 구현한 REST API 서버 입니다.
 
 ***
 ### - requirements ###
-python 3.10.0
+   python 3.10.0
 
-fastapi 0.0.4
+   fastapi 0.0.4
 ***
  
 ### - install ###
@@ -25,6 +25,18 @@ window OS 를 사용하는 PC에 대한 install 방법입니다.
 ```
     pyenv install 3.10.0
     pyenv global 3.10.0
-
 ```
+
+#### poetry 설치 ####
+```
+    (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
+```
+
+#### poetry 설치 ####
+```
+    (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
+```
+
+
+
 #### 설명 ####
